@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-https://user-images.githubusercontent.com/59488004/234845709-3a936da7-5cfe-42e6-b687-fc5c546745b0.mov
-
-https://user-images.githubusercontent.com/59488004/234844251-7dfbc792-1f50-4a89-bf49-775f1018f000.mov
+![234844251-7dfbc792-1f50-4a89-bf49-775f1018f000-00 00 00 642-00 00 31 866_1](https://user-images.githubusercontent.com/59488004/234848664-59134f2f-e4d0-4564-b10f-4281a6f431a9.gif)
 
 <!--
 **DuzeyYT/DuzeyYT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
