@@ -2,6 +2,12 @@
 
 ![234844251-7dfbc792-1f50-4a89-bf49-775f1018f000-00 00 00 642-00 00 31 866_1](https://user-images.githubusercontent.com/59488004/234848664-59134f2f-e4d0-4564-b10f-4281a6f431a9.gif)
 
+
+
+https://user-images.githubusercontent.com/59488004/234853020-994af09c-941f-4fd4-8a64-1e4f222edddf.mp4
+
+
+
 <!--
 **DuzeyYT/DuzeyYT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
