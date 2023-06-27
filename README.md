@@ -11,7 +11,7 @@
 
 ![234844251-7dfbc792-1f50-4a89-bf49-775f1018f000-00 00 00 642-00 00 31 866_1](https://user-images.githubusercontent.com/59488004/234848664-59134f2f-e4d0-4564-b10f-4281a6f431a9.gif)
 
-https://github.com/DuzeyYT/DuzeyYT/assets/59488004/7cbc5c4f-7e08-4588-88e7-d5fcdcbe13e3
+https://github.com/DuzeyYT/DuzeyYT/assets/59488004/256c2ea2-b1e0-46d8-b177-537037f509db
 
 
 <!--
