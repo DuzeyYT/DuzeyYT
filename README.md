@@ -1,16 +1,19 @@
-### Hi there 👋
+# Hi there 👋
+
+- 🔭 I’m currently working **leben beenden**
+- 🌱 I’m currently learning **wie man suizid begeht**
+- 👯 I’m looking to collaborate on **ich kann nichts**
+- 🤔 I’m looking for help with **brauch ich nicht**
+- 💬 Ask me about **bitte schreibt mich nicht an**
+- 📫 How to reach me: **findet es selber heraus**
+- 😄 Pronouns: **ich**
+- ⚡ Fun fact: <br>
+![fun fact](https://github.com/DuzeyYT/DuzeyYT/assets/59488004/6e3615f9-f976-45d5-8b4c-f9b42a965da3)
 
 <!--
-**DuzeyYT/DuzeyYT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### Stats
+[![Stats](https://github-readme-stats.vercel.app/api?username=DuzeyYT&show_icons=true&theme=radical)](
 -->
+
+### Metrics
+![Metrics](https://metrics.lecoq.io/DuzeyYT?template=classic&config.timezone=Europe%2FBerlin)
