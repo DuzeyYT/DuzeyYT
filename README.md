@@ -10,10 +10,5 @@
 - ⚡ Fun fact: <br>
 ![fun fact](https://github.com/DuzeyYT/DuzeyYT/assets/59488004/6e3615f9-f976-45d5-8b4c-f9b42a965da3)
 
-<!--
 ### Stats
 [![Stats](https://github-readme-stats.vercel.app/api?username=DuzeyYT&show_icons=true&theme=radical)](
--->
-
-### Metrics
-![Metrics](https://metrics.lecoq.io/DuzeyYT?template=classic&config.timezone=Europe%2FBerlin)
