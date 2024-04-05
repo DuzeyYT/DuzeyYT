@@ -11,4 +11,4 @@
 ![fun fact](https://github.com/DuzeyYT/DuzeyYT/assets/59488004/6e3615f9-f976-45d5-8b4c-f9b42a965da3)
 
 ### Stats
-[![Stats](https://github-readme-stats.vercel.app/api?username=CodeManDev&show_icons=true&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=CodeManDev&show_icons=true&theme=radical)
